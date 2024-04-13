@@ -148,6 +148,9 @@ footer button:hover {
 
     --fs-nav: var(--fs-300)
   }
+  body {
+    padding: 0em 20rem 0em 20rem;
+  }
   .even-columns {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
